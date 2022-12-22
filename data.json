@@ -1,0 +1,30 @@
+[{
+   
+        
+    "title":"Nasrin kazi",
+        
+    "year": "sweden",
+    "about": "stockholm",
+    "more" : "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+},
+{
+    "title": "Programin",
+    "year": "2022",
+    "about": "HTML,CSS,JAVASCRIPT",
+    "more" : "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+},
+{
+    "title": "Lia: cgi, stockholm",
+    "year": "2022",
+    "about": "Javacsript",
+    "more" : "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+},
+{
+    "title": "Php",
+    "year": "wordpress",
+    "about": "Css",
+    "more" : "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+}
+
+]
+
